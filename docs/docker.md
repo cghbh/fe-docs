@@ -44,3 +44,11 @@ yum makecache
 yum install wget –y
 ```
 
+
+
+## 安装Git
+
+```shell
+yum install git -y
+```
+
