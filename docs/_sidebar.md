@@ -3,5 +3,6 @@
 - [安装Jenkins](/jenkins)
 - [安装npm私有镜像源](/npm)
 - [安装GitLab](/gitlab)
+- [日常文档记录](/link)
 
 
