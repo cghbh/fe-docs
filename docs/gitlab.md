@@ -27,7 +27,7 @@ docker run -id -p 9527:80 -p 9522:22 -v /home/gitlab/etc:/etc/gitlab  -v /home/g
 
 --name gitlab  设置容器名称为gitlab
 
-gitlab/gitlab-ce  镜像的名称，这里也可以写镜像ID
+gitlab/gitlab-ce:15.0.0-ce.0  镜像的名称，这里也可以写镜像ID
 ```
 
 
