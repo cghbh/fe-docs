@@ -55,3 +55,26 @@
 - [docker Gitlab14.5.0 初始化账号以及密码是什么呢？](https://blog.csdn.net/weixin_40816738/article/details/121546562)
 
 - [docker部署npm私有仓库verdaccio](https://blog.csdn.net/weixin_43819222/article/details/106518807)
+- [yarn 报错There appears to be trouble with your network connection. Retrying](https://blog.csdn.net/at1358/article/details/114383001)
+
+- [使用docker部署前端应用（dockerfile最佳实战）](https://zhuanlan.zhihu.com/p/102853707)
+
+- [docker搭建YAPI服务 ](https://www.cnblogs.com/lgj8/p/14339345.html)
+- [NESTJS 使用SWAGGER 搭建接口文档](https://www.freesion.com/article/4872473869/)
+
+- [web深色模式适配指南](https://juejin.cn/post/7044043307340529694)
+
+- [Nginx与前端开发](https://juejin.cn/post/6844903684967825421)
+
+- [Jenkins+github配置构建触发器](https://blog.csdn.net/omaidb/article/details/122175043)
+- [向GitHub提交代码时触发Jenkins自动构建](https://benpaodewoniu.github.io/2020/03/09/jenkins2/)
+- [Jenkins+Docker+github+Vue自动化部署](https://blog.csdn.net/linfen1520/article/details/120405042)
+- [docker安装yapi](https://blog.csdn.net/weixin_43296313/article/details/124049342)
+- [Verdaccio 使用 Docker 安装及迁移教程](https://cloud.tencent.com/developer/article/1533900)
+- [Docker：Docker Compose 详解](https://www.jianshu.com/p/658911a8cff3)
+- [工具 - 打造 Mac “完美”终端（Terminal），一篇就够了](https://www.jianshu.com/p/d58192137061)
+- [Vue3源码](https://vue3js.cn/reactivity/reactive.html)
+- [TypeORM 中文文档](https://typeorm.biunav.com/zh/)
+- [nestjs中文文档](https://docs.nestjs.cn/)
+- [Mac安装nvm](https://www.cnblogs.com/sangfall/p/15309038.html)
+- [Docker从入门到实践](https://yeasy.gitbook.io/docker_practice/)
