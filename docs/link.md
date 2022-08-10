@@ -78,3 +78,6 @@
 - [nestjs中文文档](https://docs.nestjs.cn/)
 - [Mac安装nvm](https://www.cnblogs.com/sangfall/p/15309038.html)
 - [Docker从入门到实践](https://yeasy.gitbook.io/docker_practice/)
+
+- [Docker 安装verdaccio](https://blog.csdn.net/qq_27615455/article/details/124551047)
+- [Vue + Node.js 从 0 到 1 实现自动化部署工具](https://cloud.tencent.com/developer/article/1981039)
