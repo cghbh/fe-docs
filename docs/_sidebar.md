@@ -6,4 +6,5 @@
 - [日常文档记录](/link)
 - [sentry埋点部署](/sentry)
 - [vue3学习笔记](/vue3)
+- [Mac使用文档](/mac)
 
